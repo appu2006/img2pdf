@@ -28,8 +28,8 @@ i can convert image to pdf
 This bot created by @mrlokaman""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ],
-                 [InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]       ]        ) )
+                    InlineKeyboardButton("Update Channel" ,url="https://t.me/Powerupdate") ],
+                 [InlineKeyboardButton("Support Group", url="https://t.me/Powersupporthelp") ]       ]        ) )
 
 
 
